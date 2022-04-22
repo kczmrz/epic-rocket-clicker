@@ -45,7 +45,7 @@ function StartAlert(props)
 
          <div className="ModalTxt messageToUser">
          
-             <h1>Hello</h1>
+             <h1>Hello :-D</h1>
              <h3> This game is no sense time-waster clicker. Maybe you can find the purpose of this game.</h3>
              <h2>REMEMBER:</h2>
              <h3>-Keep an eye on your fuel</h3>
