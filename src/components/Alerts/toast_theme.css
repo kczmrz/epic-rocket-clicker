@@ -1,0 +1,16 @@
+.Toastify__toast--warning {
+    background-color: #23272a;
+    color: white;
+}
+
+
+.Toastify__progress-bar {
+    background-color: red;
+}
+
+
+.Toastify__toast--success {
+    background-color: #006b05;
+    color: white;
+    font-size: 20px;
+}

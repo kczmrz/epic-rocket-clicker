@@ -1,0 +1,40 @@
+.Board {
+    color: white;
+   
+}
+
+.counter {
+    font-size: 100px;
+}
+
+.cbtn {
+    font-size: 50px;
+    width: 35%;
+}
+.avatar {
+
+    width: 120px;
+    border-radius: 30%;
+    margin-top: 15px;
+    border: white 2px solid;
+}
+
+.strap{
+    background-color: #121212;
+    
+    border-radius: 3%;
+}
+
+
+.txtRed {
+    color: red;
+}
+
+.txtGreen {
+    color: green;
+}
+
+.CardGrid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
