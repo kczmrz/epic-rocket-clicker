@@ -51,7 +51,7 @@ function StartAlert(props)
              <h3>-Keep an eye on your fuel</h3>
              <h3>-Be carefoul in casino :-)</h3>
              <br/><br/>
-             <h3>enjoy flights bro! </h3>
+             <h3>enjoy your flights bro! </h3>
              <h2>~Kczmrz</h2>
              <center> 
              <button className="btn btn-success" onClick={TriggerBtn}>  Okay, let's go!</button>
