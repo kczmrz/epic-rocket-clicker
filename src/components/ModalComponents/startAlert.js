@@ -45,16 +45,16 @@ function StartAlert(props)
 
          <div className="ModalTxt messageToUser">
          
-             <h1>Hello :-D</h1>
+             <h1>Hello</h1>
              <h3> This game is no sense time-waster clicker. Maybe you can find the purpose of this game.</h3>
              <h2>REMEMBER:</h2>
              <h3>-Keep an eye on your fuel</h3>
              <h3>-Be carefoul in casino :-)</h3>
              <br/><br/>
-             <h1>enjoy flights bro! </h1>
+             <h3>enjoy flights bro! </h3>
              <h2>~Kczmrz</h2>
              <center> 
-             <button className="btn btn-success" onClick={TriggerBtn}><h3>  Okay, let's go!</h3></button>
+             <button className="btn btn-success" onClick={TriggerBtn}>  Okay, let's go!</button>
              </center>
 
       

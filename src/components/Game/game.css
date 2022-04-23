@@ -29,4 +29,21 @@ body {
 }
 
 
-   
+.mobileInfo {
+    color: white;
+    display: none;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .mobileInfo {
+        position: absolute;
+      display: inherit;
+      background-color: #121212;
+      width: 100%;
+    }
+
+    .fullscreen {
+        display: none;
+    }
+  }

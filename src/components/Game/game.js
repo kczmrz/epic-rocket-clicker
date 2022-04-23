@@ -461,7 +461,13 @@ import TrollMessage from "../ModalComponents/TrollMessage";
    
      
 
-        return( <div>
+        return( 
+        <> 
+        <div className="mobileInfo"> <h2>This game works only on desktop browser</h2><center> <img src="https://c.tenor.com/jM88jRsqnL8AAAAC/peppo-pepe.gif" width='400'/></center></div>
+
+        <div className="fullscreen">
+            
+
             <TrollMessage showinfo={this.state.troll_info} trollbtn={this.CloseTrollmsg}/>
             <StartAlert/>
              <center>  <DisplayBoard avatar={images.avatar1} clicks={ Math.round(click * 100)/100} event={this.AddPoints} power={this.state.power} lvl={this.state.level} xp={this.state.xp} xp2={this.state.xp_to_nxt}/> 
@@ -564,7 +570,7 @@ import TrollMessage from "../ModalComponents/TrollMessage";
             
         
 
-        </div> )
+        </div> </>)
     }
 }
 
