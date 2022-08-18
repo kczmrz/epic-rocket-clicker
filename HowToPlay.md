@@ -1,0 +1,33 @@
+# epic-rocket-clicker
+Simple clicker in ReactJS
+
+
+## `⚠️This project is not responsive, only desktop`
+
+## `How to install and run`
+
+1) `npm install https://github.com/kczmrz/epic-rocket-clicker`
+2) In node modules, you must find `sandbox` file.
+3) Open CMD and find `..\node_modules\sandbox`
+4) `npm start`
+5) Have a fun!
+
+
+## `Screens` 
+
+
+
+
+![epic rocket clicker](https://user-images.githubusercontent.com/96081508/185475349-7db98d73-7e00-42a6-aa0e-32a24de62a9c.png)
+![epic rocket clicker2](https://user-images.githubusercontent.com/96081508/185475365-eb66f140-0d47-4ab4-84e3-e5dd4849672b.png)
+![epic rocket clicker3](https://user-images.githubusercontent.com/96081508/185475373-45643288-7d49-42d5-8979-62ceb8de65a6.png)
+
+and casino: 
+![epic rocketclicker4](https://user-images.githubusercontent.com/96081508/185475426-1ff4ace6-5829-4628-a03c-e2c12f9b96ba.png)
+
+
+
+Fun fact:
+Why is this project called `sandbox`?\
+-Because each of my clicker projects is named 'sandbox'.
+
