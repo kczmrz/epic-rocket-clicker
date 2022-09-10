@@ -6,11 +6,10 @@ Simple clicker in ReactJS
 
 ## `How to install and run`
 
-1) `npm install https://github.com/kczmrz/epic-rocket-clicker`
-2) In node modules, you must find `sandbox` file.
-3) Open CMD and find `..\node_modules\sandbox`
-4) `npm start`
-5) Have a fun!
+1) git clone this project
+2) use `npm install`
+3) `npm start`
+4) Have a fun!
 
 
 ## `Screens` 
