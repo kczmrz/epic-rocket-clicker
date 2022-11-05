@@ -26,7 +26,5 @@ and casino:
 
 
 
-Fun fact:
-Why is this project called `sandbox`?\
--Because each of my clicker projects is named 'sandbox'.
+
 
