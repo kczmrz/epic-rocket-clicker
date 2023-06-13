@@ -1,7 +1,7 @@
 # epic-rocket-clicker
 Simple clicker in ReactJS
 
-### Warning: This is my first "own project" in React JS and I know, that this project may be poorly written "spaghetti code".
+### Information: This is my first "own project" in React JS and I know, that this project may be poorly written "spaghetti code".
 https://kczmrz.github.io/epic-rocket-clicker/
 
 ## `⚠️This project is not responsive, only desktop`
